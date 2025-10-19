@@ -34,3 +34,32 @@ ive dropped some pics below of what i would be basing of/inspo! :)
 
   
 
+## 10/19/2025 - designed project/List of parts and materials  
+
+the features i wanted for this project was:
+-bluetooth connectivity
+-sd card slot
+-physical buttons
+-ability to connect to spotify
+-(new) front should be able to open like a walkman, but is optional
+-im hoping for the design to be able to be metal on the outside to feel heavy, but if not possible, i'll settle for a transparent or yellow 3D printed case.
+
+from the features, here are some obvious parts that i think i need for now:
+-bluetooth module
+-sd card reader writer module
+-button modules
+-im not sure yet what i'll use for the actual board thats running everything, whether it be arduino or raspberry pi or anything else, but i'll find a way to configure spotify or a streamer.
+-i'll develop a mechanism to open and close the front using metal or plastic
+-after making a sketch then a model, i'll be able to see what printers i can use to either carve out a metal frame or just 3d print a case but paint it yellow or make it have an clear look using resin.
+
+attached below is some of the stuff i researched online and took inspo!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--bcc67cc58097dd5dc004247d665bb9a58e8a36f2/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzNywicHVyIjoiYmxvYl9pZCJ9fQ==--a235575f65e8f279b8f628b581e6ecb5a0753f22/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--f61f8f9ede0ae919fb792bc58aadd1bca8d0d9e7/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ee361c8179e3e2356a3aad5912f0cbdcafccf943/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--f539c07947624658430ef5009cdcfe22a97d3c62/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ0MywicHVyIjoiYmxvYl9pZCJ9fQ==--63367927c77d3d423a079116957f79968d04044d/image.png)
+![SONY WM-F107 Solar Walkman Stereo Cassette player [ Fan Art ], Binnyzz.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a182f7a9ed934ffc68fe049116114e94c74c3e7d/SONY%20WM-F107%20Solar%20Walkman%20Stereo%20Cassette%20player%20%5B%20Fan%20Art%20%5D%2C%20Binnyzz.jpg)
+
+  
+
