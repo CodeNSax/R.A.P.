@@ -21,9 +21,9 @@ the R.A.P. stands for retro audio player, i was heavily inspired by the sony wal
 
 but the problem with the sony walkman is that it uses cassettes, so i would need each indivduial song to be able to listen on it, and i wouldn't be able to listen to obcscure artists (which is my entire taste ;_;)
 
-so i decided to make something new that uses spotify (or files), bluetooth, and maybe touchscreen, but still have a satisfying feel of physical buttons and feel good and heavy in your hands/be aesthetic.
+so i decided to make something new that uses spotify (or files), bluetooth, and maybe touchscreen, but still have a satisfying feel of physical buttons and feel solid in your hands
 
-ive dropped some pics below of what i would be basing of/inspo! :) (color of it might be yellow???)
+ive dropped some pics below of what i would be basing of/inspo! :)
 
 ![SONY WM-F107 Solar Walkman Stereo Cassette player [ Fan Art ], Binnyzz.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5NywicHVyIjoiYmxvYl9pZCJ9fQ==--0c217d5a899babda4d3941b5f10b7865aee3e0c0/SONY%20WM-F107%20Solar%20Walkman%20Stereo%20Cassette%20player%20%5B%20Fan%20Art%20%5D%2C%20Binnyzz.jpg)
 ![download.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b5c72650687c87b13a5c3f627ea1dde25fbada5/download.jpg)
